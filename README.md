@@ -1,2 +1,2 @@
 # Composition2
-another use of composition instead of inheritance
+Use of composition instead of inheritance
